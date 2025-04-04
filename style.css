@@ -107,7 +107,7 @@
         /* Hero Section */
         .hero {
             position: absolute;
-            top: 83vh;
+            top: 78vh;
             left: 50%;
             transform: translate(-50%, -50%);
             text-align: center;
